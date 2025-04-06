@@ -1,0 +1,26 @@
+# Flutter/Dart
+.dart_tool/
+.idea/
+.vscode/
+build/
+.packages
+pubspec.lock
+
+# PlatformIO
+.pio/
+.pioenvs/
+.clang_complete
+.project
+.cproject
+.settings/
+*.code-workspace
+lib_deps/
+.pytest_cache/
+.sconsign.dblite
+
+# Allgemein
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
